@@ -18,7 +18,8 @@ const routes = {
     "/" : "/pages/home.html",
     "/about" : "/pages/about.html",
     "/settings" : "/pages/settings.html",
-    "/login" : "/pages/main.html",
+    "/login" : "/pages/login.html",
+    "/info" : "/pages/info.html",
     404 : "/pages/404.html",
     
 }
